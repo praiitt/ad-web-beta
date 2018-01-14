@@ -27,7 +27,8 @@ module.exports = {
       'modules/*/client/css/*/*.css',
       'modules/*/client/elements/css/*.css',
       'modules/*/client/fonts/*/*',
-      'modules/*/client/fonts/*/'
+      'modules/*/client/fonts/*/',
+      'modules/*/client/fonts/lato/*'
     ],
     less: [
       'modules/*/client/less/*.less'
